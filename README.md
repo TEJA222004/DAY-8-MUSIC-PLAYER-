@@ -22,4 +22,6 @@ This project is a simple **Music Player App** built using **HTML**, **CSS**, and
 - `DAY8.css`: Contains the styling rules for the player and playlist.
 - `DAY8.js`: Handles the logic for the music player (e.g., play/pause, next/previous, shuffle).
 
+## Demo 
+<img src="https://github.com/user-attachments/assets/137f72a7-d502-43e6-b98c-af5f6418ff3f" width="300" height="500" />
 
